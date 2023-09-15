@@ -1,3 +1,4 @@
+<p align="center"><img width="80%" alt="Hello, I'm Rafi Ramadhan. I do open source!" src="img/Untitled1425_20230915101247.png" /></p>
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
